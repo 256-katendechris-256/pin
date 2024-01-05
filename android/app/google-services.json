@@ -1,0 +1,31 @@
+{
+
+
+  "project_info": {
+    "project_number": "417974226077",
+    "project_id": "mervyn-6dc0c",
+    "storage_bucket": "mervyn-6dc0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417974226077:android:09871ed0467b1ef0549874",
+        "android_client_info": {
+          "package_name": "com.example.tmw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIjUMGpM2GxF3wMDYdfmsSLSDUQn-xUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
